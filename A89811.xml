@@ -1,0 +1,1737 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect catalogue of all the knights of the most noble Order of the Garter. From the first institution of it, untill this present April, Auno [sic] 1661. Whereunto is prefixed a short discourse touching the institution of the Order, the patron, habit and solemnities of it, with many other particulars which concern the same. / Collected and continued by J.N.</title>
+            <author>J. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89811</idno>
+            <idno type="STC">Wing N21</idno>
+            <idno type="STC">Thomason E1087_13</idno>
+            <idno type="STC">ESTC R202944</idno>
+            <idno type="EEBO-CITATION">99863067</idno>
+            <idno type="PROQUEST">99863067</idno>
+            <idno type="VID">115249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115249)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1087[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect catalogue of all the knights of the most noble Order of the Garter. From the first institution of it, untill this present April, Auno [sic] 1661. Whereunto is prefixed a short discourse touching the institution of the Order, the patron, habit and solemnities of it, with many other particulars which concern the same. / Collected and continued by J.N.</title>
+                  <author>J. N.</author>
+               </titleStmt>
+               <extent>[4], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Anne Seile, over against St. Dunstans Church in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Order of the Garter --  Registers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115249:1"/>
+            <pb facs="tcp:115249:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> PERFECT CATALOGUE OF ALL THE KNIGHTS OF THE <hi>MOST
+NOBLE ORDER</hi> OF THE GARTER. From the firſt Inſtitution of it, until
+this preſent <hi>April, Anno</hi> 1661. <hi>Whereunto is prefixed</hi> A
+ſhort Diſcourſe touching the Inſtitution of the Order, the Patron,
+Habit and Solemnities of it, with many other Particulars which concern the
+ſame.</p>
+            <p>
+               <hi>Collected and continued by</hi> J. N.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Anne Seile,</hi> over againſt
+St. <hi>Dunſtans</hi> Church in Fleet-ſtreet, 1661.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115249:2"/>
+            <pb facs="tcp:115249:2"/>
+            <head>TO THE <hi>READER.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>Eader, I here preſent thee with a perfect Catalogue of the
+<hi>Knights of the Garter,</hi> from the firſt Inſtitution of that fa<g ref="char:EOLhyphen"/>mous
+Order till this preſent <hi>April, Anno</hi> 1661. which I conceive will
+neither prove unpleaſing nor unſeaſonable in this Conjuncture,
+conſidering that the ſolemn Inſtallation of ſo many of Saint
+<hi>George's</hi> Knights (the greateſt that was ever known ſince the
+firſt founding of the Order by King <hi>Edw.</hi> 3.) makes up a principal
+part of the Diſcourſe of this preſent time.</p>
+            <p>But then I am withall to tell thee, that in this piece I can call
+nothing mine without great preſumption, but my de<g ref="char:EOLhyphen"/>ſire <pb facs="tcp:115249:3"/>to do
+thee ſervice; all the materials of it being lent me by an abler hand: From
+whoſe laborious Work upon this Subject, and ſome additional helps which
+were ſince brought in, I have collected whatſoever is now laid before thee.
+And yet I cannot fear that either Felony or Petitlarſony will be laid to my
+charge; or if it be, I ſhall preſume upon the Co<g ref="char:EOLhyphen"/>ronation pardon, which is
+now at hand, in caſe I ſhould not meet with thine. And ſo Fare thee
+well.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115249:3"/>
+            <head>A Perfect Catalogue of all the <hi>KNIGHTS</hi> of the most
+Noble Order of the GARTER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been held good policy in the greateſt Princes to ſet
+apart ſome perſons of re<g ref="char:EOLhyphen"/>rown and vertue from the reſt of the
+ſub<g ref="char:EOLhyphen"/>jects, and to unite them in a body amongſt themſelves. Amongſt
+which we may reckon <hi>Davids mighty men,</hi> mentioned in the ſecond of
+<hi>Samuel</hi> Chap. 23. thirty in number, as appeareth by the 13. ver. of
+that Chap. compared with <hi>Chron.</hi> 1. Chap. 27. v. 6. Some of whoſe
+names are regiſtred, and their chief acts (eſpecially their ſignall
+ſervices againſt the <hi>Philiſtines</hi>) re<g ref="char:EOLhyphen"/>corded by the ſacred
+Pen-men. Of which ſort alſo were King <hi>Arthur's</hi> Knights of the
+<hi>Round-table,</hi> men of moſt eminent note in his long. War againſt the
+<hi>Saxons:</hi> And the twelve Peers of <hi>France</hi> ordained by
+<hi>Charlemaine,</hi> for their great valour manifeſted againſt the
+<hi>Saraſens;</hi> whoſe acts were ſo much memoriezd by ſome old
+<hi>Romancers.</hi> Upon this ground the <hi>Templers</hi> and
+<hi>Hoſpitalers</hi> were firſt inſtituted by the Eaſtern Chriſtians,
+in order to the preſer<g ref="char:EOLhyphen"/>vation of <hi>Ieruſalem,</hi> and the
+<hi>Holy-Land,</hi> from the power of the Infidels; As were the Knights of
+<hi>Alcantara, Calatra<g ref="char:EOLhyphen"/>va,</hi> &amp;c. by the Kings of <hi>Spain</hi> for the
+defence of their Dominions againſt the <hi>Moores.</hi>
+            </p>
+            <p n="2">2. But of all Orders purely Military, there is not any now
+remaining in the Chriſtian World, either more ancient or more honourable,
+then the moſt noble Order of S. <hi>George,</hi> which we call the Garter;
+Firſt, inſtituted by King <pb n="2" facs="tcp:115249:4"/>
+               <hi>Edw.</hi> the 3.
+<hi>anno</hi> 1350. which was 59. yeares before the inſtituting of the
+<hi>French</hi> Order of St. <hi>Michael</hi> by King <hi>Lewis</hi> the XI.
+229. years before the firſt deviſing of the new Order of the Holy-Ghoſt,
+by King <hi>Henry</hi> the 3. full 80. years before the inſtitution of the
+<hi>Burgundian</hi> Order of the Golden ſleece, by Duke <hi>Philip</hi> the
+Good; and about 209. years before the Order of the Knights of the
+<hi>Elephant</hi> was firſt excogitated by the Kings of <hi>Denmark.</hi>
+Which gives it clearly the precedence before other Or<g ref="char:EOLhyphen"/>ders in the point of
+Antiquity. And yet it is eſteemed as honourable as it hath been Ancient,
+there having been more Emperours, Kings and Forraign Princes of this one Order
+of the Garter, then of all others in a manner in the Chriſtian World. Which
+honour it obtained by be<g ref="char:EOLhyphen"/>ing kept preciſely to its primitive number, never
+exceed<g ref="char:EOLhyphen"/>ing 26. ſince the firſt originall; whereas all others of this kind
+have been ſo far communicated unto all pretenders, that at the laſt they
+loſt their Luſtre, and thereupon be<g ref="char:EOLhyphen"/>came leſſe eſtimable in the eye
+of the world. But more particularly, there have been honoured with this Order
+8. Emperours of <hi>Germany,</hi> 5. Kings of the <hi>French,</hi> 3. Kings of
+<hi>Spain,</hi> beſides <hi>Charles</hi> the Emperour; 7. Kings and Princes
+of the houſe of <hi>Portugall,</hi> 2. Kings of the <hi>Scots,</hi> 4. Kings
+of <hi>Denmark,</hi> 3. Kings of <hi>Naples,</hi> 1, of <hi>Poland,</hi> and
+one of <hi>Sweden,</hi> 1. Duke of <hi>Millaine,</hi> 1. of <hi>Ferrara,</hi>
+2. of <hi>Urbine,</hi> 7. Count <hi>Palatines</hi> of the <hi>Rhene,</hi>
+whereof 2. Ele<g ref="char:EOLhyphen"/>ctors, 1 Marqueſs &amp; Elector of <hi>Brandinburgh,</hi> 2.
+Dukes of <hi>Beunſwick,</hi> 2. Dukes of <hi>Holſt,</hi> 1. Duke of
+<hi>wettenberge,</hi> one Duke of <hi>Guelders,</hi> and one Duke of
+<hi>Holland,</hi> one Duke of <hi>Savoy,</hi> one Duke of <hi>Uſetagne,</hi>
+4. Princes of <hi>Orange,</hi> two Dukes of <hi>Montmorency,</hi> one Duke of
+<hi>Chevereuſe,</hi> one Duke of <hi>Eſpernon,</hi> and one Prince of
+<hi>Serranti,</hi> beſides many other forraigners of great name and note.</p>
+            <pb n="3" facs="tcp:115249:4"/>
+            <p n="3">3. Now in this Order there are theſe particulars to be
+conſidered, firſt, the occaſion of the inſtitution, ſecondly, the
+Saint by whoſe name it was at firſt intituled, thirdly, the Habit and
+Solemnities which belong unto it, fourth<g ref="char:EOLhyphen"/>ly, the manner of their ſitting in
+their ſtalls at <hi>Windſor,</hi> and fifthly, the Succeſſion of
+thoſe eminent perſons who have been Dignified therewith, from the firſt
+inſtitution of it till this preſent time. And firſt as touching the
+occaſion of it, it was briefly this. King <hi>Edward</hi> the 3. having
+in<g ref="char:EOLhyphen"/>gaged himſelf in a War with <hi>France,</hi> for the obtaining of that
+Crown which deſcended on him (as it was then ſup<g ref="char:EOLhyphen"/>poſed) in the right of
+his Mother; conceived it neceſ<g ref="char:EOLhyphen"/>ſary to allure unto his party all ſuch
+gallant Spirits as were inamored of <hi>Bellona.</hi> And to the end erected a
+<hi>Round-Table</hi> in the Caſtle of <hi>Windſor,</hi> in imitation of
+King <hi>Ar<g ref="char:EOLhyphen"/>thurs</hi> before remembred, where they were entertained with
+<hi>Tilts</hi> and <hi>Tournaments,</hi> Magnificent Feaſts, and other
+Princely ways to unite them together. But <hi>Philip de Va-Loyce,</hi> who was
+then actually in poſſeſſion of the Crown of <hi>France,</hi> mined with
+him, and ſo undermined him; by erecting a like <hi>Table</hi> in his Court
+whereſoever it was, and drawing to it many of King <hi>Edwards</hi> Knights,
+who were at liberty to go where they found beſt welcome. So that being
+diſappointed in this project, he finds out another, ſuch as might be more
+faſt and binding then the other was; and ſo to faſten and unite his
+party, as to aſſure himſelf that they ſhould not flit from him as they
+had done formerly, upon the hopes of a more liberall en<g ref="char:EOLhyphen"/>tertainment. And to
+this purpoſe he ordained this He<g ref="char:EOLhyphen"/>roick Order, conſiſting of ſix and
+twenty perſons of moſt eminent note, of which himſelf and his
+Succeſſors Kings of <hi>England</hi> were to be the Soveraigns; all of them
+men of choice endowments, of great renown in <hi>Martiall Chi<g ref="char:EOLhyphen"/>valry,</hi> 
+               <pb n="4" facs="tcp:115249:5"/>and ſuch as ſhould be bound both by Oath and Honour to
+adhere unto him.</p>
+            <p n="4">4. To each of theſe he gave a Garter, richly wrought, to
+be continually worn, and faſtned about the left leg with a Buckle of Gold;
+from whence they were called Knights of the Garter in the times ſucceeding.
+But why he gave the Garter for their Badge or Enſign, is not well agreed on.
+Some have conceived as <hi>Cambden</hi> tells us, that from his own Garter,
+given forth as a ſignall of a Battle that ſped fortunately, he called his
+Order of the Garter: <hi>Speed</hi> otherwiſe, for that in a Battle where<g ref="char:EOLhyphen"/>in
+he was Victorious, he had given the word Garter for his Signall and
+<hi>Selden,</hi> that the Garter was uſed for ſome ſucceſſefull
+Symbole before his ſucceſſefull Bat<g ref="char:EOLhyphen"/>tle, (perhaps he meaneth that of
+<hi>Crecie.) Polydore Virgil,</hi> far more wide then all the reſt, will have
+it take Denom nation from a Garter of the Counteſſe of
+<hi>Sa<g ref="char:EOLhyphen"/>lisburies;</hi> which falling from her in a Dance was took up by the
+King, who is ſuppoſed to have been for<g ref="char:EOLhyphen"/>merly enamored of her. But this is
+proved to be a vain and idle Romance, Derogatory to the Honour of the Founder
+and the Author both. More rightly the Black-Book of <hi>windſor,</hi> (which
+is more juſtly to be credited in this particular) in which it is affirmed
+that the Garter was given to the Knights of this Order in teſtimony of that
+Bond of Love and affection where-with the Knights and Fellowes of it were to be
+bound ſeverally unto one another, and all of them joyntly to the King as the
+Soveraign of it; the habit being ſo fitted to the Kings deſign, <hi>Ut
+omnia ad amicitiam &amp; conordiam ten<g ref="char:EOLhyphen"/>dere nemo non intelligat;</hi> that all
+men might perceive how much it tended to the preſervation of true Chriſtian
+concord, and increaſe of friendſhip.</p>
+            <pb n="5" facs="tcp:115249:5"/>
+            <p n="5">5. The Order being thus reſolved on, the King reſol<g ref="char:EOLhyphen"/>ved
+alſo to intitle it by the name of St. <hi>George,</hi> who being a man of
+great poſſeſſions and renown for Chivalry, had ſuffered Martyrdom in
+the furious times of <hi>Diocleſian;</hi> affirmed in general by all Writers
+to be a Native of the Province of <hi>Capadocia,</hi> ſuppoſed by ſome to
+have been Martyred in <hi>Nicomedia,</hi> the principal ſeat at that time of
+the Eaſtern Empire: by others at <hi>Dioſprilia</hi> or <hi>Liddea</hi> in
+the Land of <hi>Paleſtine,</hi> where he is ſaid to be interred: on both
+accounts of great eſteem in the <hi>Eaſtern Countries.</hi> From whence his
+fame came into <hi>England</hi> by ſuch noble Adventurers, as had imployed
+themſelves in the Wars of the <hi>Holy Land;</hi> eſpecially by King
+<hi>Richard</hi> the Firſt, and King <hi>Edward</hi> the Firſt, who looked
+upon him as the <hi>Tutilary Saint</hi> or <hi>Patron,</hi> of all <hi>Martial
+men,</hi> according to the common Error of thoſe darker times; which being
+imbraced by this great King amongſt the reſt, he was re<g ref="char:EOLhyphen"/>ſolved to make
+him Patron of this Order, and to intitle all the Fellows and Companions of it,
+<hi>Knights of the Or<g ref="char:EOLhyphen"/>der of St. George.</hi> To which end having beautified
+and inlarged the <hi>Caſtle</hi> of <hi>Windſor,</hi> to be the Seat-Royal
+of this Order, he cauſed a ſolemn Proclamation to be made in <hi>France,
+Spain, Germany,</hi> and the <hi>Belgick Provinces,</hi> by which all men of
+Military ſpirits were invited to attend thoſe Tilts and Tournaments, which
+were intended to be kept not only on St. <hi>Georges</hi> day then next
+enſuing (which was deſigned for the Day of the Inſtitution) but for 15.
+dayes before, and as many after. And that the memo<g ref="char:EOLhyphen"/>ry of St. <hi>George</hi>
+might be ſtill continued, he gave them for another part of their daily habit,
+the Image of Saint <hi>George</hi> encountring with the Dragon, enchaſed with
+Pearls and precious ſtones, appendant to a Blew Silk <pb n="6" facs="tcp:115249:6"/>Ribbond continually to be worn about their Necks. The day perpetually
+deſigned for the Solemnities of the In<g ref="char:EOLhyphen"/>ſtallation, was fixed upon the 23.
+of <hi>April,</hi> Saint <hi>Georges</hi> Day; and thoſe Solemnities to be
+performed in a good<g ref="char:EOLhyphen"/>ly Church, erected within the verge and limits of the
+Caſtle, called the <hi>Free Chappel of St. George.</hi> In which condition it
+remains to this very day.</p>
+            <p n="6">6. As for the Habit of the Order beſides the Garter and
+the George before remembred, without which none of theſe Knights are to
+ſhew themſelves abroad in pub<g ref="char:EOLhyphen"/>lick, there properly belongs to each of them
+a Surcoat, a Mantle and an Hood, all ſtately and magnificent both for Stuff
+and Faſhion. But theſe to be worn onely on Saint <hi>Georges</hi> Day, and
+on what day ſoever it ſhall pleaſe the Soveraign to celebrate the
+Solemnities of the In<g ref="char:EOLhyphen"/>ſtallations. To each of them belongs alſo a rich
+Col<g ref="char:EOLhyphen"/>ler made of pure Gold, compoſed of Knots and Garters, enamelled with
+Roſes white and red, the Image of Saint <hi>George</hi> richly ſet out with
+precious ſtones appendant to it; to be worne over all the Robes at. Saint
+<hi>Georges</hi> Feaſt; and over their ordinary Clokes upon all ſuch dayes,
+on which the Soveraigne is bound by Statutes to make his Offerings. And
+finally, beſide theſe Robes appointed by the Royall Founder, it pleaſed
+His late Majeſty, of precious memory, to make an Order, That all theſe
+Knights ſhould wear upon their Clokes or Ri<g ref="char:EOLhyphen"/>ding Coats an Eſcotheon of the
+Armes of Saint <hi>George, i. c.</hi> A Croſſe within a Garter, not
+enriched with Pearls or Stones, but both environed round about with a rich
+Imbroidery. This to be done in token of the Honour which they hold from that
+Noble Order; firſt inſtituted and ordained for perſons of the higheſt
+worth, as the Act <pb n="7" facs="tcp:115249:6"/>informeth us: which Act bears date on the
+27. day of <hi>April, Anno</hi> 1626<g ref="char:punc">▪</g> being the ſecond year of the
+ſaid Kings Reign.</p>
+            <p n="7">7. In ſome of theſe Abiliments the Knights of this
+moſt noble Order are attired in publick, as the diverſity of occaſions is
+preſented to them; but alwayes in their ſtatelieſt Robes and richeſt
+Collers, when the Solemni<g ref="char:EOLhyphen"/>ties of the Order are to be performed, that is to
+ſay, the celebrating of St. <hi>Georges</hi> Feaſt, and in the act or
+cere<g ref="char:EOLhyphen"/>mony of their Inſtallations. Concerning which we are to know, that every
+Knight is bound to faſten an Eſco<g ref="char:EOLhyphen"/>cheon of their Arms on a plate of Mettal
+on their ſeve<g ref="char:EOLhyphen"/>ral Stalls, with an inſcription of their Names and Titles of
+Honour; which they remove according as them<g ref="char:EOLhyphen"/>ſelves in order are advanced
+higher. And in this Order do they alſo change the places of their Banners,
+Swords and Helmets, which are continually over their ſaid Stalls, during
+their being of the Order; that plate of Arms being left unto that Stall, in
+which laſt they ſate, the Hatchments taken down, to make room for ſuch as
+ſhall ſucceed unto the Stall of the Knight deceaſed, or otherwiſe
+removed to ſome higher place. And touch<g ref="char:EOLhyphen"/>ing this we are to know, that in this
+Order they are pla<g ref="char:EOLhyphen"/>ced according to the Seniority of their Creations, and not
+according to their perſonal Dignities and Titles of Honour: So that
+ſometimes a Knight Batchelor hath place, before an Earl or Barron, yea, a
+Duke or Mar<g ref="char:EOLhyphen"/>queſs; as not long ſince we had example in Sir <hi>Henry
+Lea</hi> Knight, Keeper of the Armory, who had precedency of the Duke of
+<hi>Lenox,</hi> beſides Earls and Barons. One<g ref="char:EOLhyphen"/>ly in honour unto ſtrangers,
+who are Sovereign Princes, or Sons or Brothers to ſuch Princes, it is
+permitted by <pb n="8" facs="tcp:115249:7"/>the rules of the Order, that they take place
+according to the quality of their ſeveral perſons. But this is but a late
+Indulgence: For anciently whoſoever was elected into the place of a Knight
+deceaſed, ſucceeded alſo in his Stall, without reſpect of any quality
+or degree. If a King crowned came in the place of a Knight Batchellor, whoſe
+Stall was loweſt, he ſate there alſo, no difference being made betwixt
+Forreigners and Natives, but all accoun<g ref="char:EOLhyphen"/>ted of as Fellows; as may be made
+apparent by the old French Tables, exemplified (and now by conſequence
+preſerved) in St. <hi>Georges</hi> Hiſtory: And this is evident by the
+plates of ſeveral Kings and Sovereign Princes, placed in lower Stalls; as
+alſo from the firſt intention of the Founder, who meant them all as Fellows
+and Com<g ref="char:EOLhyphen"/>panions of the ſame Order; and therefore no priority to be challenged
+by any of them, no more than was in <hi>Ar<g ref="char:EOLhyphen"/>thurs</hi> Table, which he chiefly
+imitated. <hi>Henry</hi> the Se<g ref="char:EOLhyphen"/>venth, as is ſuppoſed, made the alteration,
+as far as it hath reference to Forreign Princes. The reſt continued in
+thoſe Stalls, where at firſt they ſate; ſave that the Sovereigns
+reſerved unto themſelves this power, Once in their lives (ſo ſaith the
+Statute) to make a general Tranſlation of all the Stalls at their pleaſure,
+except of Emperours, Kings, and Soveraign Princes; as it continu<g ref="char:EOLhyphen"/>eth at this
+day.</p>
+            <p n="8">8. Nothing remaines but that we lay down the Succeſſion
+of the Knights of this Order, from the firſt Inſtitution of it to this
+preſent time, <hi>Anno</hi> 1661. Which for my better method, I ſhall rank
+in this manner follow<g ref="char:EOLhyphen"/>ing. Firſt, I will give the Names of thoſe Eminent
+Perſons, which were the firſt Fellowes and Compani<g ref="char:EOLhyphen"/>ons of it, and therefore
+called the <hi>Founders of the Order</hi> 
+               <pb n="9" facs="tcp:115249:7"/>in the Book of
+<hi>Windſor.</hi> Secondly, I ſhall draw down the ſucceſſion from the
+Death of thoſe Founders, through the Raigns of all the Kings and Queens of
+<hi>England,</hi> till the thirteenth year of King <hi>Charles</hi> the Second;
+and thirdly repreſent the State of that excellent <hi>Order</hi> as it now
+ſtands upon the ſo much Celebrated day of the Inſtallation, the
+greateſt and moſt General day of In<g ref="char:EOLhyphen"/>ſtallation that was ever known,
+ſince the firſt Founding of the <hi>Order.</hi> And that being done, I
+ſhall both put an end to my own trouble, and the Readers alſo.</p>
+            <list>
+               <head>The Founders, as they uſe to call them, of the moſt Noble
+Order of Saint <hi>GEORGE,</hi> named the Garter.</head>
+               <item>
+                  <hi>1</hi> EDward <hi>the third King of</hi> England.<note place="margin">
+                     <hi>Edward</hi> III. An. Ch. 1350.</note>
+               </item>
+               <item>
+                  <hi>2</hi> Edward <hi>Prince of</hi> Wales.</item>
+               <item>
+                  <hi>3</hi> Henry <hi>Duke of</hi> Lancaſter.</item>
+               <item>
+                  <hi>4</hi> Thomas Beauchamp <hi>Earl of</hi> Warwick.</item>
+               <item>
+                  <hi>5</hi> Peter Capitaine de la Bouche, <hi>a
+Gaſcoyner.</hi>
+               </item>
+               <item>
+                  <hi>6</hi> Ralph <hi>Lord</hi> Stafford, <hi>after Earl
+of</hi> Stafford.</item>
+               <item>
+                  <hi>7</hi> William de Montacute <hi>Earl of</hi>
+Salisbury.</item>
+               <item>
+                  <hi>8</hi> Roger <hi>Lord</hi> Mortimer, <hi>after Earl
+of</hi> March.</item>
+               <item>
+                  <hi>9</hi> John Liſle <hi>Knight and Baron.</hi>
+               </item>
+               <item>
+                  <hi>10</hi> Bartholemew <hi>the Burgtherſt Knight and
+Baron.</hi>
+               </item>
+               <item>
+                  <hi>11</hi> John Beauchamp. <hi>Knight and Baron.</hi>
+               </item>
+               <item>
+                  <hi>12</hi> John <hi>Lord</hi> Mohun <hi>of</hi>
+Dunſter.</item>
+               <item>
+                  <hi>13</hi> Hugh de Courtney. <hi>Knight and
+Baron.</hi>
+               </item>
+               <item>
+                  <hi>14</hi> Thomas de Holland <hi>Knight.</hi>
+               </item>
+               <pb n="10" facs="tcp:115249:8"/>
+               <item>
+                  <hi>15</hi> John Grey <hi>of</hi> Codner <hi>Knight and
+Baron.</hi>
+               </item>
+               <item>
+                  <hi>16</hi> Richard Fitz-Simon, <hi>or</hi> Simondſon
+<hi>Knight.</hi>
+               </item>
+               <item>
+                  <hi>17</hi> Miles de Stapulton <hi>Knight.</hi>
+               </item>
+               <item>
+                  <hi>18</hi> Thomas de wale <hi>Knight.</hi>
+               </item>
+               <item>
+                  <hi>19</hi> Hugh Wirteſley <hi>Knight.</hi>
+               </item>
+               <item>
+                  <hi>20</hi> Neele de Loring <hi>Knight.</hi>
+               </item>
+               <item>
+                  <hi>21</hi> John Chandos <hi>Banneret.</hi>
+               </item>
+               <item>
+                  <hi>22</hi> James de Audley <hi>Knight and Baron.</hi>
+               </item>
+               <item>
+                  <hi>23</hi> Otho de Holland <hi>Knight.</hi>
+               </item>
+               <item>
+                  <hi>24</hi> Henry Eſme <hi>Knight.</hi>
+               </item>
+               <item>
+                  <hi>25</hi> Sanchio Dabridgecourt <hi>Knight, a
+Henalteir.</hi>
+               </item>
+               <item>
+                  <hi>26</hi> Walter Pavely <hi>Knight.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The places of which Founders, or of as ma<g ref="char:EOLhyphen"/>ny of them as
+deceaſed in the Reign of that King, were filled again, and the Succeſſion
+thus continued by the ſaid King <hi>Edward.</hi>
+               </head>
+               <item>Richard <hi>of</hi> Bourdeaux <hi>Prince of</hi> wales,
+<hi>after King of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>of that name the ſecond.</hi>
+               </item>
+               <item>Lionell <hi>Duke of</hi> Clarence.</item>
+               <item>John <hi>of</hi> Gaunt <hi>Duke of</hi> Lancaſter, <hi>and
+afterwards of</hi> A<g ref="char:EOLhyphen"/>quitaine, <hi>called into Parliament by the name of King
+of</hi> Caſtile <hi>and</hi> Leon.</item>
+               <item>Edmund <hi>of</hi> Langley, <hi>Duke of</hi> York, <hi>and E.
+of</hi> Cambridge.</item>
+               <item>John <hi>Duke of</hi> Bretagne <hi>and Earl of</hi>
+Richmond.</item>
+               <item>Humphrey de Bohun <hi>Earl of</hi> Hereford.</item>
+               <item>William de Bohun <hi>Earl of</hi> Northampton.</item>
+               <item>John Haſtings <hi>Earl of</hi> Pembroke.</item>
+               <item>Thomas Beauchamp <hi>the Son, Earl of</hi> Warwich.</item>
+               <item>Richard Fitz-Alen <hi>Earl of</hi> Arundel.</item>
+               <pb n="11" facs="tcp:115249:8"/>
+               <item>Robert Ufford <hi>Earl of</hi> Suffolk.</item>
+               <item>Guiſcard de Engoliſme, <hi>after Earl of</hi>
+Huntington.</item>
+               <item>Ingelram de Coucy <hi>Earl of</hi> Bedford, <hi>the Kings
+Son-in-Law.</hi>
+               </item>
+               <item>William <hi>Lord</hi> Fitz-warin.</item>
+               <item>Edward <hi>Lord Deſpencer.</hi>
+               </item>
+               <item>Hugh <hi>Earle of</hi> Stafford.</item>
+               <item>William <hi>Lord</hi> Latimer.</item>
+               <item>Reynold <hi>Lord</hi> Cobham <hi>of</hi> Sterburgh.</item>
+               <item>John <hi>Lord</hi> Nevil <hi>of</hi> Raby.</item>
+               <item>Ralph <hi>Lord</hi> Baſſet <hi>of</hi> Drayton.</item>
+               <item>
+                  <hi>Sir</hi> Walter Manny <hi>Banneret, a Gentleman of</hi>
+Haynalt, <hi>one of eſpeciall merit and imployment in our Wars with</hi>
+France.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Ufford.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Felton, <hi>the ſame I take it,
+whom</hi> Hector Boe<g ref="char:EOLhyphen"/>tius <hi>calleth by the name of</hi> William.</item>
+               <item>
+                  <hi>Sir</hi> Francis Van-Hall.</item>
+               <item>
+                  <hi>Sir</hi> Alan Boxhull <hi>Conſtable of the
+Tower.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Richard Pemburg.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Utreight.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Baniſter.</item>
+               <item>
+                  <hi>Sir</hi> Richard La Vache.</item>
+               <item>
+                  <hi>Sir</hi> Guido Brian <hi>or</hi> Brient.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Richard</hi> the ſecond King of <hi>England,</hi>
+&amp;c. and So<g ref="char:EOLhyphen"/>veraign of the Garter,<note place="margin">
+                     <hi>Richard</hi> II.
+An. Ch. 1377.</note> Elected in his time theſe that follow.</head>
+               <item>Thomas <hi>of</hi> Woodſtock <hi>Earl of</hi> Buckingham,
+<hi>after Duke of</hi> Glouceſter.</item>
+               <pb n="12" facs="tcp:115249:9"/>
+               <item>Henry <hi>of</hi> Lancaſter <hi>Earl of</hi> Derby,
+<hi>after Duke of</hi> Hereford, <hi>and finally King of</hi> England, <hi>of
+that name the fourth.</hi>
+               </item>
+               <item>William <hi>Duke of</hi> Gelderland, <hi>deſcended by his
+Mother from the Lady</hi> Elenor, <hi>ſiſter to King</hi> Edw. <hi>the
+third, and wife of</hi> Reynald, <hi>firſt Duke of</hi> Guelders.</item>
+               <item>William <hi>of</hi> Bavaria <hi>Earl of</hi> Oſternant,
+<hi>Son of</hi> Albert, <hi>Earl of</hi> Holland, <hi>afterwards Earl of</hi>
+Holland, <hi>Heinalt, &amp;c.</hi>
+               </item>
+               <item>Thomas Holland <hi>Earl of</hi> Kent, <hi>after Duke of</hi>
+Surrey.</item>
+               <item>Thomas Mowbray <hi>Earl of</hi> Nottingham, <hi>after Duke
+of</hi> Norfolk.</item>
+               <item>Edward <hi>Earl of</hi> Rutland, <hi>after Duke of</hi>
+Albemarle, <hi>and at laſt Duke of</hi> York, <hi>ſlain at the Battle
+of</hi> Agin-court.</item>
+               <item>Michael de la Pole, <hi>Earl of</hi> Suffolk.</item>
+               <item>William <hi>Lord</hi> Scrope, <hi>after Earl of</hi>
+Wilts.</item>
+               <item>
+                  <hi>Sir</hi> William Beauchamp, <hi>after Lord</hi>
+Aburgavenny.</item>
+               <item>John <hi>Lord</hi> Beaumont.</item>
+               <item>William <hi>Lord</hi> Willoughby.</item>
+               <item>Richard <hi>Lord</hi> Grey.</item>
+               <item>
+                  <hi>Sir</hi> Nicholas Sarnsfield.</item>
+               <item>
+                  <hi>Sir</hi> Philip de la Vache.</item>
+               <item>
+                  <hi>Sir</hi> Simon Burley, <hi>inſtitutor of the King in
+his minority.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> John D' Eureux.</item>
+               <item>
+                  <hi>Sir</hi> Brian Stapleton.</item>
+               <item>
+                  <hi>Sir</hi> Richard Burley.</item>
+               <item>
+                  <hi>Sir</hi> Peter Courtney.</item>
+               <item>
+                  <hi>Sir</hi> John Burley.</item>
+               <item>
+                  <hi>Sir</hi> John Bourchier.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Grandiſon.</item>
+               <item>
+                  <hi>Sir</hi> Lewis Clyfford.</item>
+               <item>
+                  <hi>Sir</hi> Robert de Namurs.</item>
+            </list>
+            <list>
+               <pb n="13" facs="tcp:115249:9"/>
+               <head>
+                  <hi>HENRY</hi> the Fourth of that name, King of
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+                  <note place="margin">
+                     <hi>Henry</hi> IV. An. Ch. 1499.</note>
+&amp;c. Soueraign of the Garter, made choice of</head>
+               <item>HENRY <hi>Prince of</hi> Wales, <hi>after King</hi> Henry
+<hi>the Fifth.</hi>
+               </item>
+               <item>Thomas <hi>Duke of</hi> Clarence, <hi>and Lord high
+Steward.</hi>
+               </item>
+               <item>John <hi>Duke of</hi> Bedford, <hi>and Lord High Conſtable,
+after Regent of</hi> France.</item>
+               <item>Humphrey <hi>Duke of</hi> Glouceſter, <hi>Protector of the
+Realm in the time of King</hi> Henry <hi>the ſixth.</hi>
+               </item>
+               <item>Robert <hi>Count Palatine, and Duke of</hi> Bavier.</item>
+               <item>Thomas Beaufort <hi>Earl of</hi> Dorſet, <hi>after Duke
+of</hi> Ex<g ref="char:EOLhyphen"/>ceter.</item>
+               <item>John Beaufort <hi>Earl of</hi> Somerſet.</item>
+               <item>Thomas Fitz-Alan <hi>Earl of</hi> Arundel.</item>
+               <item>Edmund <hi>Earl of</hi> Stafford.</item>
+               <item>Edmund Holland <hi>Earl of</hi> Kent.</item>
+               <item>Ralph Nevil <hi>Earl of</hi> Weſtmerland.</item>
+               <item>Gilbert <hi>Lord</hi> Talbot.</item>
+               <item>Gilbert <hi>Lord</hi> Roos.</item>
+               <item>Thomas <hi>Lord</hi> Morley.</item>
+               <item>Edward <hi>Lord</hi> Powys.</item>
+               <item>John <hi>Lord</hi> Lovell.</item>
+               <item>Edward <hi>Lord</hi> Burnell.</item>
+               <item>
+                  <hi>Sir</hi> John Cornwall, <hi>after Lord</hi>
+Fanhope.</item>
+               <item>
+                  <hi>Sir</hi> William Arundell.</item>
+               <item>
+                  <hi>Sir</hi> John Stanley.</item>
+               <item>
+                  <hi>Sir</hi> Robert Umfreville.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Rampſton.</item>
+               <pb n="14" facs="tcp:115249:10"/>
+               <item>
+                  <hi>Sir</hi> Thomas Erpingham, <hi>afterwards Captain of the
+Archers at the Battail of</hi> Agincours.</item>
+               <item>
+                  <hi>Sir</hi> John Sulby.</item>
+               <item>
+                  <hi>Sir</hi> Sanchio <hi>of</hi> Trane.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>HENRY</hi> the Fifth,<note place="margin">
+                     <hi>Henry</hi> V.
+An. Ch. 1413.</note> King of <hi>England,</hi> &amp;c. Soveraign of the Garter,
+graced the Order with</head>
+               <item>
+                  <hi>1413.</hi> JOHN <hi>King of</hi> Portugall.</item>
+               <item>Henry <hi>or</hi> Ericus <hi>King of</hi> Danemarke.</item>
+               <item>
+                  <hi>Sir</hi> John Dabridgecourt.</item>
+               <item>
+                  <hi>1416.</hi> Sigiſmund <hi>King of</hi> Hungary
+<hi>and</hi> Bohemia, <hi>and Emperour Elect.</hi>
+               </item>
+               <item>John Holland <hi>Earl of</hi> Huntingdon, <hi>and after the
+death of</hi> Thomas Beaufort <hi>Duke of</hi> Eneter.</item>
+               <item>Thomas Mountacute <hi>Earl of</hi> Salisbury.</item>
+               <item>Richard Vere <hi>Earl of</hi> Oxon.</item>
+               <item>Richard Beauchamp <hi>Earl of</hi> Wawick, <hi>after
+Vice-Regent of</hi> France.</item>
+               <item>Thomas <hi>Lord</hi> Camoys.</item>
+               <item>Robert <hi>Lord</hi> Willoughby.</item>
+               <item>Henry <hi>Lord</hi> Fitz-Hugh.</item>
+               <item>
+                  <hi>Sir</hi> Simon Felbridge.</item>
+               <item>
+                  <hi>Sir</hi> John Robſart, <hi>or</hi> Robertſack.</item>
+               <item>
+                  <hi>Sir</hi> William Harrington.</item>
+               <item>
+                  <hi>Sir</hi> John Blunt.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Montacute.</item>
+               <item>
+                  <hi>1420.</hi> Hugh Stafford <hi>Lord</hi> Bourchier.</item>
+               <item>
+                  <hi>Sir</hi> John Grey <hi>of</hi> Eyton.</item>
+               <pb n="15" facs="tcp:115249:10"/>
+               <item>
+                  <hi>1421. Sir</hi> William Philips, <hi>after Lord</hi>
+Bardolph, <hi>Trea<g ref="char:EOLhyphen"/>ſurer of the Houſhould.</hi>
+               </item>
+               <item>
+                  <hi>1422.</hi> William de la Pole, <hi>then Earl, after
+Marqueſs, and laſtly Duke of</hi> Suffolk.</item>
+               <item>John Moubray, <hi>Earl Marſhal, after Duke of</hi>
+Nor<g ref="char:EOLhyphen"/>folke.</item>
+               <item>John <hi>Lord</hi> Clyfford.</item>
+               <item>
+                  <hi>Sir</hi> Lewis Robſart, <hi>Lord Chamberlain, and
+afterwards Lord</hi> Bourcher.</item>
+               <item>
+                  <hi>Sir</hi> Walter Hungerford, <hi>Lord Steward of the
+King's houſe, after Lord</hi> Hungerford, <hi>Conſtable of</hi>
+Windſor.</item>
+               <item>
+                  <hi>Sir</hi> Heretongs Cleux <hi>a Knight of</hi>
+Germany.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>HENRY</hi> the Sixth, King of <hi>England,</hi>
+                  <note place="margin">
+                     <hi>Henry</hi> VI. An. Ch. 1421.</note> &amp;c. and Soveraign of
+the Order, aſſumed into it</head>
+               <item>
+                  <hi>1423.</hi> JOHN <hi>Lord</hi> Talbot, <hi>after Earl
+of</hi> Shrewsbury, <hi>the firſt of this Family.</hi>
+               </item>
+               <item>
+                  <hi>1425.</hi> Thomas <hi>Lord</hi> Scales.</item>
+               <item>
+                  <hi>1426. Sir</hi> John Fuſtolfe, <hi>Governour of</hi>
+Anjou <hi>and</hi> Maine.</item>
+               <item>
+                  <hi>1429.</hi> Humphrey <hi>Earl of</hi> Stafford, <hi>after
+Duke of</hi> Buckingham, <hi>Lord High Conſtable.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> John Ratelif.</item>
+               <item>
+                  <hi>1432.</hi> John Fitz-alan <hi>Earl of</hi>
+Arundel.</item>
+               <item>
+                  <hi>1435.</hi> Edward <hi>King of</hi> Portugal, <hi>Son of
+that King</hi> John <hi>who was elected of the Order by King</hi> Henry <hi>the
+Fifth.</hi>
+               </item>
+               <item>Richard <hi>Duke of</hi> York, <hi>who after claimed the
+King<g ref="char:EOLhyphen"/>dom againſt this King</hi> Henry.</item>
+               <pb n="16" facs="tcp:115249:11"/>
+               <item>
+                  <hi>1436.</hi> Edmund Beaufort <hi>Earl of</hi> Moriton
+<hi>in</hi> Normandy, <hi>after Duke of</hi> Somerſet.</item>
+               <item>
+                  <hi>Sir</hi> John Grey, <hi>after Lord</hi> Grey <hi>of</hi>
+Ruthin.</item>
+               <item>
+                  <hi>1437.</hi> Richard Nevil <hi>Earl of</hi>
+Salisbury.</item>
+               <item>
+                  <hi>1438.</hi> Albert <hi>of</hi> Auſtria <hi>King of</hi>
+Hungary <hi>and</hi> Bohe<g ref="char:EOLhyphen"/>mia, <hi>and Emperour of</hi> Germany.</item>
+               <item>
+                  <hi>1438.</hi> John Beauford <hi>Duke of</hi> Somerſet,
+<hi>elder Bro<g ref="char:EOLhyphen"/>ther of</hi> Edmund <hi>Earl of</hi> Moriton
+<hi>abovementioned.</hi>
+               </item>
+               <item>Gaſton de Foix <hi>Earl of</hi> Longeville.</item>
+               <item>William Nevil <hi>Lord</hi> Falconbride, <hi>after Earl
+of</hi> Kent.</item>
+               <item>John <hi>Viſcount</hi> Beaumont, <hi>the firſt in</hi>
+England <hi>that was ever honoured with the title of Viſcount.</hi>
+               </item>
+               <item>Ralph <hi>Lord</hi> Butler <hi>of</hi> Sudeley.</item>
+               <item>
+                  <hi>1444.</hi> Peter <hi>Duke of</hi> Conimbria, <hi>third
+Son of</hi> John <hi>King of</hi> Portugal.</item>
+               <item>Henry <hi>Duke of</hi> Viſontium, <hi>fourth Son to the
+ſaid</hi> John <hi>King of</hi> Portugal.</item>
+               <item>
+                  <hi>1445.</hi> John de Foix <hi>created alſo Earl of</hi>
+Kendal, <hi>cal<g ref="char:EOLhyphen"/>led commonly</hi> Capdal de Bouche.</item>
+               <item>
+                  <hi>Sir</hi> John Beaucham <hi>after Lord</hi> Beauchamp
+<hi>of</hi> Powick.</item>
+               <item>
+                  <hi>1446.</hi> Alvare d' Almada, <hi>Earl of</hi> Avarence,
+<hi>a</hi> Por<g ref="char:EOLhyphen"/>tugueze.</item>
+               <item>Thomas <hi>Lord</hi> Hoo <hi>and</hi> Haſting.</item>
+               <item>
+                  <hi>1447.</hi> Alphonſo <hi>King of</hi> Portugall.</item>
+               <item>
+                  <hi>Sir</hi> Francis Serrien, <hi>an</hi> Arragonian; <hi>a
+man of prin<g ref="char:EOLhyphen"/>cipal imployment in our wars with</hi> France.</item>
+               <item>
+                  <hi>1450.</hi> Alphonſo <hi>King of</hi> Arragon
+<hi>and</hi> Naples.</item>
+               <item>Caſimire <hi>King of</hi> Poland.</item>
+               <item>William, <hi>ſurnamed</hi> The Victorius, <hi>Duke of</hi>
+Brunſwick.</item>
+               <item>John Mowbray <hi>Duke of</hi> Norfolk.</item>
+               <item>Richard Widdevil <hi>Lord</hi> Rivers, <hi>after Earl</hi>
+Rivers; <hi>and Lord High Conſtable.</hi>
+               </item>
+               <pb n="17" facs="tcp:115249:11"/>
+               <item>
+                  <hi>1452.</hi> Henry <hi>Viſcount.</hi> Bouchter <hi>after
+Earl of</hi> Eſsex.</item>
+               <item>
+                  <hi>Sir</hi> Philip Wentworth.</item>
+               <item>
+                  <hi>1453. Sir</hi> Edward Hall.</item>
+               <item>
+                  <hi>1454.</hi> Edward <hi>the Kings only Son, Prince of</hi>
+Wales; <hi>ſlain afterwards at the Battel of</hi> Tewskbury.</item>
+               <item>
+                  <hi>1457.</hi> John Talbot <hi>Earl of</hi> Shrewsbury,
+<hi>Elect into his Fathers place.</hi>
+               </item>
+               <item>Lionell <hi>Lord</hi> Wells.</item>
+               <item>Thomas <hi>Lord</hi> Stanley.</item>
+               <item>
+                  <hi>1458.</hi> John <hi>Lord</hi> Bourchier <hi>of</hi>
+Borners.</item>
+               <item>
+                  <hi>1459.</hi> Frederick <hi>Archduke of</hi> Auſtria,
+<hi>and Emp.</hi>
+               </item>
+               <item>Jaſper <hi>of</hi> Hatfield <hi>Earl of</hi> Pembroke,
+<hi>after Duke of</hi> Bedford.</item>
+               <item>James Butler <hi>Earl of</hi> Wilts <hi>and</hi>
+Ormond.</item>
+               <item>John <hi>Lord</hi> Dudley.</item>
+               <item>
+                  <hi>1461.</hi> Richard Nevil <hi>Earl of</hi> Warwick,
+<hi>called the</hi> King-maker, <hi>Lord Admiral, Warden of the Cinque-Ports,
+and Captain of</hi> Calice.</item>
+               <item>William <hi>Lord</hi> Bonvill, <hi>and</hi>
+Harrington.</item>
+               <item>
+                  <hi>Sir</hi> John Wenlock, <hi>after Lord</hi>
+Wenlock.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Kyriell.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>EDVVARD</hi> the Fourth King of <hi>England,</hi>
+                  <note place="margin">
+                     <hi>Edw.</hi> IV. An. Ch. 1461.</note> &amp;c. and Soveraign of
+the Garter, made Knights there<g ref="char:EOLhyphen"/>of.</head>
+               <item>
+                  <hi>1463.</hi> FErdinand <hi>King of</hi> Naples.</item>
+               <item>Francis Sforza <hi>Duke of</hi> Millain.</item>
+               <item>George <hi>Duke of</hi> Clarence.</item>
+               <item>Richard <hi>D. of</hi> Glouceſter, <hi>after King</hi>
+Richard <hi>the Third.</hi>
+               </item>
+               <item>James <hi>Earl of</hi> Douglas, <hi>a Lord of</hi>
+Scotland.</item>
+               <pb n="18" facs="tcp:115249:12"/>
+               <item>Galiard <hi>Lord</hi> Duras.</item>
+               <item>John <hi>Lord</hi> Scrope <hi>of</hi> Bolton.</item>
+               <item>William <hi>Lord</hi> Haſtings <hi>Lord</hi>
+Chamberlain.</item>
+               <item>
+                  <hi>Sir</hi> John Aſtley.</item>
+               <item>
+                  <hi>Sir</hi> William Chamberlain.</item>
+               <item>
+                  <hi>Sir</hi> Robert Haricourt.</item>
+               <item>
+                  <hi>1464.</hi> John Nevil <hi>Lord</hi> Montacute, <hi>after
+Earl of</hi> Northumberland, <hi>and laſtly Marqueſs</hi> Montacute.</item>
+               <item>William <hi>Lord</hi> Herbert, <hi>after Earl of</hi>
+Pembroke.</item>
+               <item>
+                  <hi>1468.</hi> Anthony Widdevill <hi>Lord</hi> Scales,
+<hi>after Earl</hi> Ri<g ref="char:EOLhyphen"/>vers, <hi>and Lord High Conſtable.</hi>
+               </item>
+               <item>N. N. <hi>Lord of</hi> Montaguiſon, <hi>a</hi> Gaſcoiner,
+<hi>as I conjecture.</hi>
+               </item>
+               <item>John Tiptoft <hi>Earl of</hi> Worceſter, <hi>and Lord High
+Con<g ref="char:EOLhyphen"/>ſtable.</hi>
+               </item>
+               <item>
+                  <hi>1472.</hi> Walter Blunt <hi>Lord</hi> Montjoy.</item>
+               <item>John Stafford <hi>Earl of</hi> Wilts.</item>
+               <item>
+                  <hi>1473.</hi> William Fitz-alan, <hi>Earl of</hi>
+Arundel.</item>
+               <item>John Mowbrey <hi>Duke of</hi> Norfolk.</item>
+               <item>John De-la-Pole <hi>Duke of</hi> Suffolk.</item>
+               <item>John <hi>Lord</hi> Howard, <hi>after Duke of</hi>
+Norfolk.</item>
+               <item>
+                  <hi>1474.</hi> Henry Stafford <hi>Duke of</hi> Buckingham,
+<hi>and after Lord High Conſtable.</hi>
+               </item>
+               <item>Thomas <hi>Lord</hi> Maltravers.</item>
+               <item>Walter d' Eureux <hi>Lord</hi> Ferrers <hi>of</hi>
+Chartley.</item>
+               <item>
+                  <hi>Sir</hi> William Parre.</item>
+               <item>
+                  <hi>1475.</hi> Frederick <hi>Duke of</hi> Urbine.</item>
+               <item>Henry-Algernon Percie <hi>Earl of</hi> Northumberland.</item>
+               <item>
+                  <hi>1476.</hi> Edward <hi>Prince of</hi> Wales, <hi>after
+King</hi> Edward <hi>the Fifth.</hi>
+               </item>
+               <item>Richard <hi>Duke of</hi> York, <hi>the Kings ſecond
+Son.</hi>
+               </item>
+               <item>Thomas Grey <hi>Marqueſs of</hi> Dorſet.</item>
+               <item>
+                  <hi>1477. Sir</hi> Thomas Mongomery.</item>
+               <item>
+                  <hi>1478.</hi> Charles <hi>Duke of</hi> Burgundy.</item>
+               <pb n="19" facs="tcp:115249:12"/>
+               <item>
+                  <hi>1480.</hi> Ferdinand <hi>King of</hi> Caſtile
+<hi>and</hi> Arragon, <hi>fir<g ref="char:EOLhyphen"/>named</hi> The Catholick; <hi>not named in the
+old</hi> French <hi>Ta<g ref="char:EOLhyphen"/>bles.</hi>
+               </item>
+               <item>Hercules <hi>Duke of</hi> Ferrara.</item>
+               <item>
+                  <hi>1483. King</hi> John <hi>of</hi> Portugall, <hi>whom I
+conceive ra<g ref="char:EOLhyphen"/>ther to have been elected in the Raigh of</hi> Henry <hi>the
+Seventh; for he is named there alſo as then choſen.</hi>
+               </item>
+            </list>
+            <list>
+               <head>
+                  <hi>RICHARD</hi> of <hi>Glouceſter</hi> King of
+<hi>England,</hi>
+                  <note place="margin">
+                     <hi>Rich.</hi> III. An. Ch. 1483.</note>
+&amp;c. Soveraign of the Garter, admitted theſe, <hi>viz.</hi>
+               </head>
+               <item>
+                  <hi>1483. SIr</hi> John Conyers <hi>Banneret.</hi>
+               </item>
+               <item>
+                  <hi>1484.</hi> Thomas <hi>Earl of</hi> Sarrey, <hi>after Duke
+of</hi>
+               </item>
+               <item>Norfolk.</item>
+               <item>Thomas <hi>Lord</hi> Stanley, <hi>after Earl of</hi>
+Darby.</item>
+               <item>Francis <hi>Lord</hi> Lovell, <hi>after Viſcount</hi>
+Lovell.</item>
+               <item>
+                  <hi>Sir</hi> William Stanley, <hi>afterwards Lord Chamberlain
+to King</hi> Henry <hi>the Seventh.</hi>
+               </item>
+               <item>
+                  <hi>1485. Sir</hi> Richard Ratelif.</item>
+               <item>
+                  <hi>Sir</hi> Richard Tunſtall.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>HENRY</hi> the Seventh, King of <hi>England,</hi>
+                  <note place="margin">
+                     <hi>Henry</hi> VII. An. Ch. 1486.</note> &amp;c. Soveraign of the
+Garter, admitted to this Honor,</head>
+               <item>
+                  <hi>1487.</hi> IOhn Vere <hi>Earl of</hi> Oxon, <hi>Captain
+of the Archers at</hi> Boſworth <hi>field.</hi>
+               </item>
+               <item>Thomas <hi>Lord</hi> Burgh.</item>
+               <item>John <hi>King of</hi> Portugal.</item>
+               <item>George Talbot <hi>Earl of</hi> Shrewsbury, <hi>after the
+death of the Lord</hi> Broke, <hi>Lord Steward.</hi>
+               </item>
+               <pb n="20" facs="tcp:115249:13"/>
+               <item>John <hi>Viſcount</hi> Wells.</item>
+               <item>Giles <hi>Lord</hi> Daubeny <hi>Earl of</hi>
+Bridgewater.</item>
+               <item>Edward <hi>Lord</hi> Widdeville.</item>
+               <item>George Stanley <hi>Lord</hi> Strange.</item>
+               <item>
+                  <hi>1490. Sir</hi> John Savage.</item>
+               <item>
+                  <hi>Sir</hi> John Cheinie:</item>
+               <item>
+                  <hi>1494.</hi> Alphonſo <hi>Duke of</hi> Calabria,
+<hi>after King of</hi> Naples.</item>
+               <item>Arthur, <hi>the Kings eldeſt Son, Prince of</hi>
+Wales.</item>
+               <item>Thomas Grey <hi>Marqueſs of</hi> Dorſet.</item>
+               <item>
+                  <hi>1494.</hi> Henry Perey <hi>Earl of</hi>
+Northumberland.</item>
+               <item>Henry Bourchier <hi>Earl of</hi> Eſſex.</item>
+               <item>
+                  <hi>Sir</hi> Charles: Somerſet <hi>Banneret, after
+Lord</hi> Herbert <hi>and Earl of</hi> Worceſter.</item>
+               <item>John <hi>Lord</hi> Dynham <hi>Lord Treaſurer.</hi>
+               </item>
+               <item>Robert Willoughby <hi>Lord</hi> Brook, <hi>Lord
+Steward.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Edward Poynings.</item>
+               <item>
+                  <hi>Sir</hi> Gilbert Talbot <hi>Banneret.</hi>
+               </item>
+               <item>
+                  <hi>1500. Sir</hi> Richard Pole, <hi>Lord Chamberlain to the
+Prince.</hi>
+               </item>
+               <item>
+                  <hi>1500.</hi> Maximilian <hi>Archduke of</hi> Auſtria,
+<hi>after Em<g ref="char:EOLhyphen"/>perour.</hi>
+               </item>
+               <item>John <hi>King of</hi> Danemarke.</item>
+               <item>Henry, <hi>the Kings ſecond Son, Duke of</hi> York,
+<hi>after King of</hi> England, <hi>of that name the VIII.</hi>
+               </item>
+               <item>Edward Courtney <hi>Earl of</hi> Devon.</item>
+               <item>
+                  <hi>Sir</hi> Richard Guilford.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Lovell.</item>
+               <item>Edmund de la Pole <hi>Earl of</hi> Suffolk.</item>
+               <item>
+                  <hi>Sir</hi> Regniald Bray.</item>
+               <item>
+                  <hi>1505</hi> Ubaldo <hi>Duke of</hi> Urbine.</item>
+               <item>Edward Stafford, <hi>Duke of</hi> Buckingham, <hi>Lord High
+Conſtable.</hi>
+               </item>
+               <pb n="21" facs="tcp:115249:13"/>
+               <item>Gerrard <hi>Earl of</hi> Kildare.</item>
+               <item>Henry <hi>Lord</hi> Stafford <hi>Earl of</hi> Wilts.</item>
+               <item>
+                  <hi>1506.</hi> Richard Grey <hi>Earl of</hi> Kent.</item>
+               <item>
+                  <hi>Sir</hi> Rheſeap Thomas.</item>
+               <item>
+                  <hi>1508.</hi> Phillip <hi>of</hi> Auſtria, <hi>King
+of</hi> Caſtile, <hi>and Duke of</hi> Burgondy.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Brandon.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>HENRY</hi> the Eighth, King of <hi>England,</hi>
+                  <note place="margin">
+                     <hi>Hen.</hi> VIII. An. Ch. 1509.</note> &amp;c. Soveraign of the
+Order of the Garter, choſe unto it,</head>
+               <item>
+                  <hi>1509.</hi> THomas <hi>Lord</hi> Darcy <hi>of the
+North.</hi>
+               </item>
+               <item>Edward Sutton <hi>Lord</hi> Dudley.</item>
+               <item>
+                  <hi>1510.</hi> Emanuel <hi>King of</hi> Portugall.</item>
+               <item>Thomas Howard <hi>Earl of</hi> Surrey, <hi>after Duke of</hi>
+Norfolk.</item>
+               <item>Thomas Weſt <hi>Lord</hi> de la Ware.</item>
+               <item>
+                  <hi>Sir</hi> Henry Marney, <hi>after Lord</hi> Marney.</item>
+               <item>
+                  <hi>1513. Sir</hi> Charles Brandon, <hi>after Duke of</hi>
+Suffolk, <hi>and Lord Great-Maſter.</hi>
+               </item>
+               <item>Edward Howard <hi>Lord Admiral.</hi>
+               </item>
+               <item>George Nevill <hi>Lord</hi> Albergavennie.</item>
+               <item>
+                  <hi>1514.</hi> Julian de Medices, <hi>brother to Pope</hi>
+Leo <hi>the Tenth.</hi>
+               </item>
+               <item>Edward Stanley <hi>Lord</hi> Mounteagle, <hi>ſecond Son to
+the Earl of</hi> Darby.</item>
+               <item>
+                  <hi>1518.</hi> Thomas <hi>Lord</hi> Dacres <hi>of</hi>
+Gilleſland.</item>
+               <item>
+                  <hi>Sir</hi> William Sands, <hi>Lord Chamberlain, after
+Lord</hi> Sands <hi>of the Vine.</hi>
+               </item>
+               <item>
+                  <hi>1519.</hi> Henry Courtney, <hi>Earl of</hi> Devon,
+<hi>after Marqueſs of</hi> Exceter.</item>
+               <pb n="22" facs="tcp:115249:14"/>
+               <item>
+                  <hi>1522.</hi> Charles <hi>the Fifth, Emperour of</hi>
+Germany, <hi>and King of</hi> Spain.</item>
+               <item>Ferdinand <hi>Archduke of</hi> Auſtria, <hi>and King of
+the</hi> Ro<g ref="char:EOLhyphen"/>mans.</item>
+               <item>
+                  <hi>Sir</hi> Richard Wingfield.</item>
+               <item>
+                  <hi>1523. Sir</hi> Thomas B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llen <hi>Treaſurer of the Houſhold, after Earl of</hi> Wilts,
+<hi>Father of the Lady</hi> Ann Bollen, <hi>ſe<g ref="char:EOLhyphen"/>cond Wife to King</hi> Henry
+<hi>the Eigth, and Mother to Queen</hi> Elizabeth.</item>
+               <item>Walter Dewreux <hi>Lord</hi> Ferrers, <hi>after
+Viſcount</hi> Here<g ref="char:EOLhyphen"/>ford.</item>
+               <item>
+                  <hi>1524.</hi> Robert Ratclif <hi>Viſcount</hi>
+Fitz-Walter, <hi>after Earl of</hi> Suſſex.</item>
+               <item>Arthur Plantagenet, <hi>Viſcount</hi> Liſle, <hi>natural
+Son to King</hi> Edward <hi>the Fourth, from whom</hi> George <hi>Duke of</hi>
+Albemarle <hi>now being, doth derive his pedigree.</hi>
+               </item>
+               <item>
+                  <hi>1525.</hi> Henry Fitz-Roy, <hi>natural Son to King</hi>
+Henry <hi>the Eighth, Duke of</hi> Richmond <hi>and</hi> Somerſet, <hi>Earl
+of</hi> Not<g ref="char:EOLhyphen"/>tingham, <hi>and Lord Admiral.</hi>
+               </item>
+               <item>William Fitz-Alan <hi>Earl of</hi> Arundel.</item>
+               <item>Ralph Nevill <hi>Earl of</hi> Weſtmorland.</item>
+               <item>Thomas Mannours <hi>Lord</hi> Roos, <hi>after Earl of</hi>
+Rutland.</item>
+               <item>
+                  <hi>1526.</hi> William Fitz-Williams <hi>Lord Admiral, after
+Earl of</hi> Southampton, <hi>and Lord Treaſurer.</hi>
+               </item>
+               <item>William Blount <hi>Lord</hi> Monjoy.</item>
+               <item>
+                  <hi>Sir</hi> Henry Guilford.</item>
+               <item>
+                  <hi>1527.</hi> Francis, <hi>the Firſt, King of the</hi>
+French.</item>
+               <item>John Vere <hi>Earl of</hi> Oxon.</item>
+               <item>
+                  <hi>1531.</hi> Henry Percy <hi>Earl of</hi>
+Northumberland.</item>
+               <item>
+                  <hi>1532.</hi> Annas <hi>Duke of</hi> Montmorencie, <hi>Great
+Maſter of the Houſhold to the</hi> French <hi>King.</hi>
+               </item>
+               <item>Phillip de Cabot <hi>Earl of</hi> Newblanch, <hi>Lord Admiral
+of</hi> France.</item>
+               <pb n="23" facs="tcp:115249:14"/>
+               <item>Henry Clifford <hi>Earl of</hi> Cumberland.</item>
+               <item>
+                  <hi>1536.</hi> James <hi>the Fifth, King of the</hi>
+Scots.</item>
+               <item>
+                  <hi>Sir</hi> Nicholas Carewe.</item>
+               <item>
+                  <hi>1537.</hi> Thomas <hi>Lord</hi> Cromwel, <hi>Lord Privie
+Seal, after Farl of</hi> Eſſex, <hi>and Lord Great Chamberlain, and Vicar
+General.</hi>
+               </item>
+               <item>
+                  <hi>1539.</hi> John <hi>Lord</hi> Ruſſel, <hi>Lord Privie
+Seal, after Earl of</hi> Bedford.</item>
+               <item>
+                  <hi>Sir</hi> Thonas Cheinie.</item>
+               <item>
+                  <hi>Sir</hi> William Kingſton.</item>
+               <item>
+                  <hi>1540.</hi> Thomas <hi>Lord</hi> Andley <hi>of</hi>
+Walden, <hi>Lord</hi> Chan<g ref="char:EOLhyphen"/>cellour.</item>
+               <item>Edward Seymor <hi>Earl of</hi> Heriford, <hi>after Duke
+of</hi> So<g ref="char:EOLhyphen"/>merſet, <hi>and Lord Protector.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Anthony Browne, <hi>Father of</hi> Anthony
+Browne <hi>firſt Viſcount</hi> Montague.</item>
+               <item>
+                  <hi>1541.</hi> Henry Howard <hi>Earl of</hi> Surrey.</item>
+               <item>
+                  <hi>Sir</hi> John Gage.</item>
+               <item>
+                  <hi>Sir</hi> Anthony Wingfield.</item>
+               <item>
+                  <hi>1543.</hi> John Dudley <hi>Viſcount</hi> Liſle,
+<hi>after Earl of</hi> War<g ref="char:EOLhyphen"/>wick, <hi>and Duke of</hi> Northumberland.</item>
+               <item>William <hi>Lord</hi> Parre, <hi>after Earl of</hi>
+Eſſex, <hi>and Marqueſs of</hi> Northampton.</item>
+               <item>William Pawlet, <hi>Lord St.</hi> John <hi>of</hi> Baſing,
+<hi>after Earl of</hi> Wilts, <hi>Marqueſs of</hi> Wincheſter, <hi>and Lord
+Treaſurer.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> John Wallopp <hi>Treaſurer of</hi> Cali<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</item>
+               <item>
+                  <hi>1544. Sir</hi> Anthony St. Leger <hi>Lord Deputy of</hi>
+Ireland.</item>
+               <item>Henry Fitz-Alan <hi>Earl of</hi> Arundel.</item>
+               <item>
+                  <hi>1545.</hi> Francis Talbot <hi>Earl of</hi>
+Shrewsbury.</item>
+               <item>Thomas <hi>Lord</hi> Wriotheſley <hi>Lord Chancellor,
+created Earl of</hi> Southampton <hi>by King</hi> Edward <hi>the
+Sixth.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="24" facs="tcp:115249:15"/>
+               <head>
+                  <hi>EDVVARD</hi> the Sixth,<note place="margin">
+                     <hi>Edw.</hi>
+VI. An. Ch. 1547.</note> King of <hi>England,</hi> &amp;c. and Soveraign of the
+Garter, aſcribed into the Order,</head>
+               <item>
+                  <hi>1547.</hi> THomas <hi>Lord</hi> Seymor <hi>of</hi>
+Sudley, <hi>Lord Admi<g ref="char:EOLhyphen"/>ral, the Protectors Brother.</hi>
+               </item>
+               <item>
+                  <hi>1548. Sir</hi> William Paget <hi>Comptroller of the
+Houſhold, after Lord</hi> Paget <hi>of</hi> Beaudeſert.</item>
+               <item>
+                  <hi>1549.</hi> Henry Grey <hi>Marqueſs of</hi> Dorſet,
+<hi>after Duke of</hi> Suffolk.</item>
+               <item>Francis Haſtings <hi>Earl of</hi> Huntingdon.</item>
+               <item>Edward Stanley <hi>Earl of</hi> Darby.</item>
+               <item>Thomas Weſt <hi>Lord</hi> de la Ware.</item>
+               <item>George Brook <hi>Lord</hi> Cobham.</item>
+               <item>
+                  <hi>Sir</hi> William Herbert, <hi>after Lord</hi> Herbert
+<hi>of</hi> Cardiſſe, <hi>and Earl of</hi> Pembroke.</item>
+               <item>
+                  <hi>1551.</hi> Henry <hi>the Second, King of the</hi>
+French.</item>
+               <item>Edward <hi>Lord</hi> Clinton, <hi>Lord Admiral.</hi>
+               </item>
+               <item>Thomas <hi>Lord</hi> Darcy <hi>of</hi> Chiche, <hi>Lord
+Chamberlain.</hi>
+               </item>
+               <item>
+                  <hi>1552.</hi> John <hi>Earl of</hi> Warmick, <hi>eldeſt
+Son to the Duke of</hi> Northumberland.</item>
+               <item>Henry Nevill <hi>Earl of</hi> Weſtmerland.</item>
+               <item>
+                  <hi>Sir</hi> Andrew Sutton, <hi>alias</hi> Dudley.</item>
+            </list>
+            <list>
+               <pb n="25" facs="tcp:115249:15"/>
+               <head>
+                  <hi>MARY</hi> Queen of <hi>England,</hi> &amp;c.<note place="margin">
+                     <hi>Mary</hi> Qu. An. Ch. 1553.</note> and Soveraign of the
+Garter, aſſumed into the void places,</head>
+               <item>
+                  <hi>1553.</hi> PHilip <hi>of</hi> Auſtria, <hi>King of</hi>
+Naples <hi>and</hi> Hieru<g ref="char:EOLhyphen"/>ſalem, <hi>and after ſole Monarch of</hi> Spain,
+<hi>the Queens husband.</hi>
+               </item>
+               <item>Henry Ratclif <hi>Earl of</hi> Suſſex.</item>
+               <item>
+                  <hi>1554.</hi> Emanuel <hi>Duke of</hi> Savoy.</item>
+               <item>William <hi>Lord</hi> Howard <hi>of</hi> Effingham.</item>
+               <item>Anthony Browne, <hi>Viſcount</hi> Montague, <hi>then
+Embaſſa<g ref="char:EOLhyphen"/>dour at</hi> Rome.</item>
+               <item>
+                  <hi>Sir</hi> Edward Haſtings <hi>Maſter of the Horſe,
+after Lord</hi> Haſtings <hi>of</hi> Loughborough.</item>
+               <item>
+                  <hi>1556.</hi> William <hi>Lord</hi> Grey <hi>of</hi>
+Wilton.</item>
+               <item>Thomas Ratclif <hi>Earl of</hi> Suſſex.</item>
+               <item>
+                  <hi>Sir</hi> Robert Rocheſter.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>ELIZABETH</hi> Queen of <hi>England,</hi> &amp;c.<note place="margin">
+                     <hi>Eliz.</hi> Qu. An. Ch. 1558.</note> and Sove<g ref="char:EOLhyphen"/>raign of the
+Garter, ſupplied the voide places with,</head>
+               <item>
+                  <hi>1559.</hi> THomas Howard <hi>Duke of</hi> Norfolk.</item>
+               <item>Henry Mannors <hi>Earl of</hi> Rutland.</item>
+               <item>
+                  <hi>Sir</hi> Robert Dudley <hi>Maſter of the Horſe, after
+Earl of</hi> Leiceſter, <hi>and Lord Steward.</hi>
+               </item>
+               <item>
+                  <hi>1560.</hi> Adolph <hi>Duke of</hi> Holſatia.</item>
+               <item>
+                  <hi>1561.</hi> George Talbot <hi>Earl of</hi>
+Shrewsbury.</item>
+               <item>Henry Cary <hi>Lord</hi> Hunſdon.</item>
+               <pb n="26" facs="tcp:115249:16"/>
+               <item>
+                  <hi>1563.</hi> Ambroſe Dudley <hi>Earl of</hi>
+Warwick.</item>
+               <item>Thomas Percy <hi>Earl of</hi> Northumberland.</item>
+               <item>
+                  <hi>1564.</hi> Charles <hi>the Ninth, King of the</hi>
+French.</item>
+               <item>Francis Ruſſel <hi>Earl of</hi> Bedford.</item>
+               <item>
+                  <hi>Sir</hi> Henry Sidney <hi>Lord Preſident of</hi> Wales,
+<hi>and thrice Lord Deputy of</hi> Ireland.</item>
+               <item>
+                  <hi>1568.</hi> Maximilian <hi>the Second, Emperour of</hi>
+Germa<g ref="char:EOLhyphen"/>ny, <hi>and King of</hi> Hungary <hi>and</hi> Bohemia.</item>
+               <item>
+                  <hi>1570.</hi> Francis Haſtings <hi>Earl of</hi>
+Huntington.</item>
+               <item>William Somerſet <hi>Earl of</hi> Worceſter.</item>
+               <item>
+                  <hi>1572.</hi> Francis <hi>Duke of</hi> Mont-morency.</item>
+               <item>Walter Deureux <hi>Earl of</hi> Eſsex.</item>
+               <item>Arthur <hi>Lord</hi> Grey <hi>of</hi> Wilton.</item>
+               <item>Edmund Bruges <hi>Lord</hi> Chandos.</item>
+               <item>William Cecill <hi>Lord</hi> Burghley, <hi>Lord
+Treaſurer.</hi>
+               </item>
+               <item>
+                  <hi>1574.</hi> Henry Stanley <hi>Earl of</hi> Darby.</item>
+               <item>Henry Herbert <hi>Earl of</hi> Pembroke.</item>
+               <item>
+                  <hi>1575.</hi> Henry <hi>the Third, King of</hi> France
+<hi>and</hi> Poland.</item>
+               <item>Charles <hi>Lord</hi> Howard <hi>of</hi> Effingham, <hi>Lord
+Admiral after Earl of</hi> Nottingham.</item>
+               <item>
+                  <hi>1578.</hi> Rodulphus <hi>the Second, Emperour of</hi>
+Germany, <hi>and King of</hi> Hungary <hi>and</hi> Bohemia.</item>
+               <item>Frederick <hi>King of</hi> Danemark.</item>
+               <item>
+                  <hi>1579.</hi> John Caſimire <hi>Count Palatine of the</hi>
+Rhene, <hi>and Duke of</hi> Bavaria.</item>
+               <item>
+                  <hi>1584.</hi> Edward Mannours <hi>Earl of</hi>
+Rutland.</item>
+               <item>William Broke, <hi>Lord</hi> Cobham.</item>
+               <item>Henry <hi>Lord</hi> Scrope <hi>of</hi> Bolton.</item>
+               <item>
+                  <hi>1578.</hi> Robert Deureux <hi>Earl of</hi>
+Eſſex.</item>
+               <item>Thomas Butler, <hi>Earl of</hi> Ormond.</item>
+               <item>
+                  <hi>Sir</hi> Chriſtopher Hatton <hi>Lord</hi>
+Chancellour.</item>
+               <item>
+                  <hi>1589.</hi> Henry Ratclif <hi>Earl of</hi>
+Suſſex.</item>
+               <pb n="27" facs="tcp:115249:16"/>
+               <item>Thomas Sackvill, <hi>Lord</hi> Buckhurſt, <hi>after Earl
+of</hi> Dor<g ref="char:EOLhyphen"/>ſet, <hi>and Lord Treaſurer.</hi>
+               </item>
+               <item>
+                  <hi>1590.</hi> Henry <hi>the Fourth, King of</hi> France
+<hi>and</hi> Na<g ref="char:EOLhyphen"/>varre.</item>
+               <item>James <hi>the Sixth, King of the</hi> Scots, <hi>after the
+firſt Monarch of</hi> Great Britain.</item>
+               <item>
+                  <hi>1592.</hi> Gilbert Talbot <hi>Earl of</hi>
+Shrewsbury.</item>
+               <item>George Clifford <hi>Earl of</hi> Cumberland.</item>
+               <item>
+                  <hi>1593.</hi> Henry Percy <hi>Earl of</hi>
+Northumberland.</item>
+               <item>Edward Somerſet <hi>Earl of</hi> Worceſter.</item>
+               <item>Thomas <hi>Lord</hi> Burgh, <hi>after Lord Deputy of</hi>
+Ire<g ref="char:EOLhyphen"/>land.</item>
+               <item>Edmund <hi>Lord</hi> Sheffield, <hi>created afterwards Earl
+of</hi> Moulgrave.</item>
+               <item>
+                  <hi>Sir</hi> Francis Knollys <hi>Treaſurer of the
+Houſhold.</hi>
+               </item>
+               <item>
+                  <hi>1597.</hi> Frederick <hi>Duke of</hi>
+Wirtzenberge.</item>
+               <item>Thomas <hi>Lord</hi> Howard <hi>of</hi> Walden, <hi>after
+Earl of</hi> Suf<g ref="char:EOLhyphen"/>folk, <hi>and Lord Treaſurer.</hi>
+               </item>
+               <item>George Carie, <hi>Lord</hi> Hunſdon, <hi>Lord
+Chamberlain.</hi>
+               </item>
+               <item>Charles Blount <hi>Lord</hi> Montjoy, <hi>after Lord Deputy
+of</hi> Ireland, <hi>and Earl of</hi> Devon.</item>
+               <item>
+                  <hi>Sir</hi> Henry Leu <hi>Keeper of the Armory.</hi>
+               </item>
+               <item>
+                  <hi>1599.</hi> Robert Ratclif <hi>Earl of</hi>
+Suſſex.</item>
+               <item>Henry Brook <hi>Lord</hi> Cobham, <hi>Lord Warden of the
+Cinque Port.</hi>
+               </item>
+               <item>Thomas <hi>Lord</hi> Scrope <hi>of</hi> Bolton.</item>
+               <item>
+                  <hi>1601.</hi> William Stanley <hi>Earl of</hi> Darby.</item>
+               <item>Thomas Cecil, <hi>Lord</hi> Burghley, <hi>after Earl of</hi>
+Exceter.</item>
+            </list>
+            <list>
+               <pb n="28" facs="tcp:115249:17"/>
+               <head>
+                  <hi>JAMES</hi> King of <hi>Great Brittain,</hi>
+                  <note place="margin">
+                     <hi>Jam.</hi> 1. An. Ch. 1602.</note> &amp;c. Sove<g ref="char:EOLhyphen"/>raign of the
+Garter, adorned the Order with theſe Worthies.</head>
+               <item>
+                  <hi>1603.</hi> CHriſtierne <hi>the Fourth, King of</hi>
+Danemark.</item>
+               <item>Henry <hi>the Kings Eldeſt Son, Prince of</hi>
+Wales.</item>
+               <item>Lewis <hi>Duke of</hi> Lenox, <hi>afterwards Earl, and Duke
+of</hi> Richmond, <hi>and Lord Steward.</hi>
+               </item>
+               <item>Henry Wriothſley <hi>Earl of</hi> Southampton.</item>
+               <item>John Ereskin <hi>Earl of</hi> Marre, <hi>in the Realm of</hi>
+Scot<g ref="char:EOLhyphen"/>land.</item>
+               <item>William Herbert <hi>Earl of</hi> Pembroke, <hi>Lord Steward
+after the death of Marqueſs</hi> Hamilton.</item>
+               <item>
+                  <hi>1605.</hi> Ulrick <hi>Duke of</hi> Holſatia.</item>
+               <item>Henry Howard <hi>Earl of</hi> Northampton, <hi>Lord Privy
+Seal.</hi>
+               </item>
+               <item>
+                  <hi>1606.</hi> Robert Cecill <hi>Earl of</hi> Salisbury,
+<hi>afterward Lord Treaſurer.</hi>
+               </item>
+               <item>Thomas Howard <hi>Viſcount</hi> Bindon.</item>
+               <item>
+                  <hi>1608.</hi> George Hume <hi>Earl of</hi> Dunbarre,
+<hi>Lord Treaſurer of</hi> Scotland.</item>
+               <item>Philip Herbert <hi>Earl of</hi> Montgomery, <hi>afterward
+Earl of</hi> Pembroke <hi>alſo; and Lord Chamberlain.</hi>
+               </item>
+               <item>
+                  <hi>1611.</hi> Charles <hi>the King's Second Son Duke of</hi>
+York, <hi>after Prince of</hi> Wales, <hi>and Second Monarch of</hi> Great
+Brittain.</item>
+               <item>Thomas Howard <hi>Earl of</hi> Arundel <hi>and</hi> Surrey,
+<hi>after Lord Marſhal.</hi>
+               </item>
+               <item>Robert Carre <hi>Viſc.</hi> Rocheſter, <hi>after Earl
+of</hi> Somerſet.</item>
+               <pb n="29" facs="tcp:115249:17"/>
+               <item>
+                  <hi>1612.</hi> Frederick <hi>Prince Elector Palatine, the
+King's Son in Law, Elected and Crowned King of</hi> Bohemia, Anno
+<hi>1619.</hi>
+               </item>
+               <item>Maurice Van Naſſaw, <hi>Prince of</hi> Orange, <hi>and
+Governour of the Armies of the States General.</hi>
+               </item>
+               <item>
+                  <hi>1615.</hi> Thomas Ereskin, <hi>Viſcount</hi> Fenton,
+<hi>now Earl of</hi> Kelly, <hi>in the Realm of</hi> Scotland.</item>
+               <item>William <hi>Lord</hi> Knollis, <hi>after Viſcount</hi>
+Wallingford, <hi>and Earl of</hi> Banbury.</item>
+               <item>
+                  <hi>1616.</hi> Francis Mannours <hi>Earl of</hi>
+Rutland.</item>
+               <item>
+                  <hi>Sir</hi> George Villiers, <hi>Maſter of the Horſe,
+after Earl, Marqueſs and Duke of</hi> Buckingham.</item>
+               <item>Robert Sidney <hi>Viſcount</hi> Liſle, <hi>after Earl
+of</hi> Leiceſter.</item>
+               <item>
+                  <hi>1623.</hi> James <hi>Marqueſs</hi> Hamilton, <hi>Earl
+of</hi> Cambridge <hi>afterwards Lord Steward.</hi>
+               </item>
+               <item>
+                  <hi>1624.</hi> Eſme Steuart, <hi>Lord</hi> D' Aubigney,
+<hi>Duke of</hi> Lenox, <hi>and Earl of</hi> March.</item>
+               <item>Chriſtian <hi>Duke of</hi> Brunſwick.</item>
+               <item>William Cecill <hi>Earl of</hi> Salisbury.</item>
+               <item>James Hay <hi>Earl of</hi> Carlile.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>CHARLES</hi> of that Name the Firſt,<note place="margin">
+                     <hi>Charles</hi> I. An. Ch. 1625.</note> King of <hi>Great
+Brittain, France,</hi> and <hi>Ireland,</hi> &amp;c. So<g ref="char:EOLhyphen"/>veraign of the moſt
+Noble Order of Saint <hi>George,</hi> called <hi>The Garter,</hi> adorneth
+therewith.</head>
+               <item>
+                  <hi>1625.</hi> FDward Sackvill <hi>Earl of</hi> Dorſet,
+<hi>after Lord Chamberlain of the Queens, and finally of his Majeſties
+Houſhold.</hi>
+               </item>
+               <item>Henry Rich <hi>Earl of</hi> Holland.</item>
+               <item>
+                  <pb n="30" facs="tcp:115249:18"/>Thomas Howard <hi>Earl of</hi>
+Berkſhire.</item>
+               <item>Churde de Lorreine <hi>Duke of</hi> Chevereuſe.</item>
+               <item>
+                  <hi>1627.</hi> Guſtavus Adolphus <hi>King of</hi>
+Sweden.</item>
+               <item>Henry Van Naſsaw <hi>Prince of</hi> Orange,
+<hi>Succeſſor to his Brother</hi> Maurice <hi>in his Command in the</hi>
+Low-Countries.</item>
+               <item>Theophilus Howard <hi>Earl of</hi> Suffolk, <hi>Lord Warden
+of the Cinque-Ports.</hi>
+               </item>
+               <item>
+                  <hi>1628.</hi> William Compton <hi>Earl of</hi> Northampton,
+<hi>Lord Preſident of</hi> Wales.</item>
+               <item>
+                  <hi>1630.</hi> Richard <hi>Lord</hi> Weſton <hi>of</hi>
+Neyland, <hi>Lord Trea<g ref="char:EOLhyphen"/>ſurer, created afterwards Earl of</hi>
+Portland.</item>
+               <item>Robert Berty <hi>Lord</hi> Willoughby, <hi>Earl of</hi>
+Lindſey, <hi>and Lord High Chamberlain.</hi>
+               </item>
+               <item>William Cecill <hi>Earl of</hi> Exeter.</item>
+               <item>James Hamilton, <hi>Marqueſs</hi> Hamilton, <hi>Earl
+of</hi> Cam<g ref="char:EOLhyphen"/>bridge, <hi>and Maſter of the Horſe, created afterwards
+Duke</hi> Hamilton <hi>of</hi> Arran <hi>in the Realm of</hi> Scotland.</item>
+               <item>James Steuart <hi>Duke of</hi> Lenox <hi>and Earl of</hi>
+March, <hi>created afterwards Duke of</hi> Richmond.</item>
+               <item>Henry Danvers <hi>Earl of</hi> Danby.</item>
+               <item>William Douglas <hi>Earl of</hi> Morton, <hi>Lord Treaſurer
+of</hi> Scotland, <hi>and Captain of his Majeſties Guard.</hi>
+               </item>
+               <item>Algernon Percy <hi>Earl of</hi> Northumberland, <hi>Lord
+Admi<g ref="char:EOLhyphen"/>ral, and General of his Majeſties Forces againſt the</hi>
+Scots.</item>
+               <item>Charles Lodowick <hi>Prince Elector Palatine, Eldeſt Son
+of</hi> Frederick <hi>Prince Palatine, and King of</hi> Bohemia, <hi>and</hi>
+Elizabeth <hi>his Wife, the Kings only Siſter.</hi>
+               </item>
+               <item>
+                  <hi>1638.</hi> Charles <hi>Duke of</hi> Cornwell, <hi>the
+eldeſt ſurviving Son of his Royal Father, deſigned for Prince of</hi>
+Wales, <hi>but not created; and now the Third Monarch of</hi> Great
+Brittain.</item>
+               <item>
+                  <hi>1642.</hi> William <hi>of</hi> Naſſo, <hi>the only
+Son of</hi> Henry <hi>Prince of</hi> Orance, <hi>and Husband of the
+Princes</hi> Mary, <hi>the Kings Eldeſt Daughter.</hi>
+               </item>
+               <pb n="31" facs="tcp:115249:18"/>
+               <item>James <hi>Duke of</hi> York, <hi>the Second ſurviving Son
+of his Sacred Majeſty.</hi>
+               </item>
+               <item>Rupert <hi>Count Palatine of the</hi> Rhene, <hi>one of the
+younger Sons of the Queen of</hi> Bohemia, <hi>created Duke of</hi> Cumberland,
+<hi>and Earl of</hi> Holdernes, <hi>and made the</hi> Generaliſsimo <hi>of
+all his Majeſties Forces in the Realm of</hi> England.</item>
+               <item>
+                  <hi>1643.</hi> Barnard <hi>Duke of</hi> Eſpernon <hi>in the
+Realm of</hi> France.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>CHARLES</hi> the Second,<note place="margin">
+                     <hi>Charles</hi> II. An. Ch. 1648.</note> King of <hi>Great
+Brittain, France,</hi> and <hi>Ireland,</hi> and Soveraign of the moſt Noble
+Order of Saint <hi>George,</hi> called the <hi>Garter,</hi> was pleaſed to
+dignifie therewith theſe perſons following, <hi>viz.</hi>
+               </head>
+               <item>
+                  <hi>1649.</hi> MAurice <hi>Count Palatine of the</hi> Rhene,
+<hi>the third ſurviving Son of the Queen of</hi> Bo<g ref="char:EOLhyphen"/>hemia.</item>
+               <item>James Butler <hi>Earl of</hi> Oſſory, <hi>and Marqueſs
+of</hi> Or<g ref="char:EOLhyphen"/>mond, <hi>made afterwards Lord Steward of his Majeſties
+Houſhold, Earl of</hi> Brecknock, <hi>and Duke of</hi> Ormond.</item>
+               <item>Edward <hi>Count Palatine of the</hi> Rhene, <hi>another of
+the younger Sons of the Queen of</hi> Bohemia.</item>
+               <item>George Vlliers <hi>Earl, Marqueſs and Duke of</hi>
+Buking<g ref="char:EOLhyphen"/>ham.</item>
+               <item>William Seymour <hi>Earl and Marqueſs of</hi> Hartford,
+<hi>de<g ref="char:EOLhyphen"/>clared to be one of this Order about this time, but not in<g ref="char:EOLhyphen"/>veſted in
+the ſame till the Moneth of</hi> May, An. <hi>1660. after which time he was
+advanced unto the Title of Duke of</hi> Somerſet.</item>
+               <item>
+                  <pb n="32" facs="tcp:115249:19"/>Thomas Wriotheſly <hi>Earl of</hi>
+Southampton, <hi>had his De<g ref="char:EOLhyphen"/>claratory Letters at the ſame time alſo, but
+not inveſted with the George and Garter till the Month of</hi> May
+<hi>afore<g ref="char:EOLhyphen"/>ſaid, and no: long after made Lord Treaſurer of the Realm of</hi>
+England.</item>
+               <item>William Hamilton <hi>Duke and Marqueſs of</hi> Hamilton,
+<hi>Earl of</hi> Cambridge <hi>and</hi> Arran, <hi>and Lord Secretary of</hi>
+Scotland.</item>
+               <item>William Cavendiſh <hi>Marqueſs and Earl of</hi>
+Newcaſtle, <hi>Viſcount</hi> Mansfield, <hi>&amp;c.</hi>
+               </item>
+               <item>James Graham <hi>Marqueſs and Earl of</hi> Montroſe
+<hi>in the Realm of</hi> Scotland, <hi>the Valiant and Victorious Com<g ref="char:EOLhyphen"/>mander of
+his late Majeſties Forces in that Kingdom,</hi> Anno <hi>1643, 1644,</hi>
+&amp;c.</item>
+               <item>James Stanley <hi>Earl of</hi> Darby.</item>
+               <item>
+                  <hi>1653.</hi> George Dighbey <hi>Earl of</hi> Briſtol,
+<hi>and ſometimes one of the principal Secretaries to his late Sacred
+Ma<g ref="char:EOLhyphen"/>jeſty.</hi>
+               </item>
+               <item>Henry <hi>Duke of</hi> Glouceſter <hi>the King's youngeſt
+bro<g ref="char:EOLhyphen"/>ther.</hi>
+               </item>
+               <item>Charles <hi>Prince of</hi> Tarante, <hi>the eldeſt Son to
+the Duke of</hi> Tremonille <hi>in the Realm of</hi> France.</item>
+               <item>William <hi>of</hi> Naſſo <hi>Prince of</hi> Orrange,
+<hi>the only Son of</hi> William <hi>Prince of</hi> Orrange, <hi>and the
+Princes</hi> Mary.</item>
+               <item>
+                  <hi>1654.</hi> Frederick William <hi>Marqueſs and Elector
+of</hi> Brandenburge, <hi>Duke of</hi> Pruſsia, Pomeren, Cleve, <hi>and</hi>
+Gulick, <hi>&amp;c.</hi>
+               </item>
+               <item>
+                  <hi>1658.</hi> Gaſper <hi>Count of</hi> Marſham, <hi>a
+Commander of great note in the Armies of the King of</hi> Spain <hi>againſt
+the</hi> French.</item>
+               <item>
+                  <hi>1660.</hi> George Monke <hi>Lord General of all his
+Majeſties Forces both in</hi> England <hi>and</hi> Scotland, <hi>created
+afterwards Duke of</hi> Albemarle, <hi>Earl of</hi> Torington, <hi>Lord</hi>
+Monke <hi>of</hi> 
+                  <pb n="33" facs="tcp:115249:19"/>Poderidge, <hi>Lord</hi> Tayes
+<hi>and</hi> Bouchamp, <hi>and Maſter of his Majeſties Horſe.</hi>
+               </item>
+               <item>Edward Mountague <hi>Admiral of the Fleet which brought his
+Majeſty into</hi> England, <hi>created afterward Earl of</hi> Sandwich,
+<hi>Lord</hi> Hinchinbrook, <hi>and Maſter of his Majeſties
+Wardrobe.</hi>
+               </item>
+               <item>Aubrey de Vere <hi>the 21 Earl of</hi> Oxon. <hi>of that name
+and Famely.</hi>
+               </item>
+               <item>
+                  <hi>1661.</hi> Charles Steuart <hi>Duke of</hi> Richmond
+<hi>and</hi> Lenox, <hi>Earl of</hi> March <hi>and</hi> Litchfield,
+&amp;c.</item>
+               <item>Montague Bertue <hi>Earl of</hi> Lyndſey, <hi>and Lord High
+Chamberlain of</hi> England.</item>
+               <item>Edward Montague <hi>Earl of</hi> Mancheſter, <hi>Lord
+Cham<g ref="char:EOLhyphen"/>berlain of his Majeſties Houſhold.</hi>
+               </item>
+               <item>William Wentworth <hi>Earl of</hi> Strafford,
+<hi>Viſcount</hi> Went<g ref="char:EOLhyphen"/>worth, <hi>Lord</hi> Raby-Newmarch; <hi>in number the
+457 per<g ref="char:EOLhyphen"/>ſon that hath been choſen of the Order ſince the firſt
+in<g ref="char:EOLhyphen"/>ſtitution.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Nothing remains but that I give the Names of Saint</hi>
+Georges <hi>Knights, as they ſtand at the preſent, of which five only were
+reinſtalled in the time of his late Sacred Majeſty, and all the reſt
+excepting two elected by his moſt Excellent Majeſty now Raigning, but
+altogether with thoſe two Inſtalled at</hi> Windſor <hi>with the
+accoſtomed Solemnities, on Tueſday the 16 day of</hi> April, Anno
+<hi>1631.</hi>
+            </p>
+            <list>
+               <pb n="34" facs="tcp:115249:20"/>
+               <head>The Fellowes and Companions of the moſt N le Order of St.
+<hi>George,</hi> commonly called the <hi>Garter,</hi> as now they ſtand this
+preſent <hi>April, Anno 1661.</hi>
+               </head>
+               <item>
+                  <hi>1.</hi> CHARLES <hi>the Second, King of</hi> Great
+Brittain, France <hi>and</hi> Ireland, &amp;c.</item>
+               <item>
+                  <hi>2.</hi> James <hi>Duke of</hi> York, <hi>the King's only
+Brother.</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> Charles Lodowick <hi>Prince Elector
+Palatine.</hi>
+               </item>
+               <item>
+                  <hi>4.</hi> Frederick-William <hi>Marqueſs and Elector
+of</hi> Bran<g ref="char:EOLhyphen"/>denburgh.</item>
+               <item>
+                  <hi>5.</hi> Rupert <hi>Count Palatine of the</hi> Rbene,
+<hi>and Duke of</hi> Cumberland.</item>
+               <item>
+                  <hi>6.</hi> Edward <hi>Count Palatine of the</hi>
+Rhene.</item>
+               <item>
+                  <hi>7.</hi> William <hi>of</hi> Naſſo, <hi>Prince of</hi>
+Orange.</item>
+               <item>
+                  <hi>8.</hi> Barnard <hi>Duke of</hi> Eſpernon.</item>
+               <item>
+                  <hi>9.</hi> Charles <hi>Prince of</hi> Tarante.</item>
+               <item>
+                  <hi>10.</hi> William Cecil <hi>Earl of</hi> Salisbury.</item>
+               <item>
+                  <hi>11.</hi> Thomas Howard <hi>Earl of</hi>
+Barkſhire.</item>
+               <item>
+                  <hi>12.</hi> Algernon Percy <hi>Earl of</hi>
+Northumberland.</item>
+               <item>
+                  <hi>13.</hi> James Butler <hi>Duke of</hi> Ormond.</item>
+               <item>
+                  <hi>14.</hi> George Villiers <hi>Duke of</hi>
+Buckingham.</item>
+               <item>
+                  <hi>15.</hi> Thomas Wriotheſly <hi>Earl of</hi>
+Southampton.</item>
+               <item>
+                  <hi>16.</hi> William Cavendiſh <hi>Marqueſs of</hi>
+Newcaſtle.</item>
+               <item>
+                  <hi>17.</hi> George Dighby <hi>Earl of</hi> Briſtol.</item>
+               <item>
+                  <hi>18.</hi> Gaſper <hi>Count of</hi> Marſham.</item>
+               <item>
+                  <hi>19.</hi> George Monke <hi>Duke of</hi> Albemarle.</item>
+               <item>
+                  <hi>20.</hi> Edward Montague <hi>Earl of</hi>
+Sandwich.</item>
+               <item>
+                  <hi>21.</hi> Abrey de Vere <hi>Earl of</hi> Oxford.</item>
+               <item>
+                  <hi>22.</hi> Charles Stenart <hi>Duke of</hi> Richmond
+<hi>and</hi> Lenox.</item>
+               <pb n="35" facs="tcp:115249:20"/>
+               <item>
+                  <hi>23.</hi> Montague Bertue <hi>Earl of</hi>
+Lyndſey.</item>
+               <item>
+                  <hi>24.</hi> Edward Montague <hi>Earl of</hi>
+Mancheſter.</item>
+               <item>
+                  <hi>25.</hi> William Wentworth <hi>Earl of</hi>
+Strafford.</item>
+            </list>
+            <p>
+               <hi>And here it is to be obſerved, That the Duke of</hi>
+So<g ref="char:EOLhyphen"/>merſets <hi>place is ſtill kept vacant, it being no unuſual matter
+with the Soveraigns of this famous Order, to keep ſome place or places
+vacant, that they may never want the opportunity of gratifying any forain
+Prince, or any other eminent perſon which deſerves well of them. Which
+ſaid, I am to add but this, That to this</hi> Order <hi>there belongs five
+Principal Officers, that is to ſay, the</hi> Prelate, <hi>the</hi>
+Chancellour, <hi>the</hi> Regiſter, <hi>the</hi> King of Arms,
+<hi>called</hi> Garter, <hi>and the</hi> Gentleman Uſher <hi>called the</hi>
+Blackrod. <hi>Of which the</hi> Prelate <hi>being alwayes Biſhop of</hi>
+Wincheſter; <hi>and the Regiſter being for the moſt part Dean of</hi>
+Windſor, <hi>are of the ſame Antiquity with the Order it ſelf: The</hi>
+King of Arms <hi>was firſt appointed by King</hi> Henry <hi>the fifth;
+the</hi> Chancellour <hi>by King</hi> Edward <hi>the fourth; and the</hi>
+Gentleman Uſher <hi>by King</hi> Henry <hi>the eighth. Which is as much as
+needs be ſaid in the prſent buſineſs; which here I ſhall conclude
+with that very</hi> Motto, <hi>continually interwoven in the Garter it ſelf;
+that is to ſay,</hi> Honi ſoit qui maly penſe: <hi>Shame be to him that
+evil thinks, either of this moſt famous Order, or the Soveragin of it; or any
+of thoſe Noble and Illuſtri<g ref="char:EOLhyphen"/>ous Perſons that are honoured with
+it.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
